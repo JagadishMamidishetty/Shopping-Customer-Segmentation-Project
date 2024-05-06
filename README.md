@@ -1,5 +1,5 @@
 # Shopping-Customer-Segmentation-Project
-# Shopping Customer Segmentation Project
+
 
 ## Problem Statement
 
